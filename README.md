@@ -6,7 +6,7 @@ The main objective was to develop a methodology for flood inundation mapping tha
 
 ## Repository Contents
 * `flood_extent_project.ipynb`: The main workflow notebook containing the Google Earth Engine scripts.
-* Semantic segmentation training data: Zameer, M. (2024). buildings_RGB Dataset [Data set]. Roboflow. Retrieved from https://universe.roboflow.com/muhammad-zameer/buildings_rgb/dataset/1
-* High Resolution Aeriel Imagery: Land Information New Zealand. (2023). Nelson 0.075m Urban Aerial Photos (2023) [Aeriel Imagery]. LINZ Data Service. https://data.linz.govt.nz/layer/123007-nelson-0075m-urban-aerial-photos-2023/
+* Semantic segmentation training data: Zameer, M. (2024). buildings_RGB Dataset [Data set]. Roboflow. Retrieved from https://universe.roboflow.com/muhammad-zameer/buildings_rgb/dataset/1 (file is too large to upload, but can be downloaded from the link).
+* `lds-nelson-0075m-urban-aerial-photos-2023-GTiff.zip`: Land Information New Zealand. (2023). Nelson 0.075m Urban Aerial Photos (2023) [Aeriel Imagery]. LINZ Data Service. https://data.linz.govt.nz/layer/123007-nelson-0075m-urban-aerial-photos-2023/
 
   
